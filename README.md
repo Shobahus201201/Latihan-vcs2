@@ -18,6 +18,8 @@ KELAS  : TI.20.A.1
 ![1](https://user-images.githubusercontent.com/72906579/96366907-cee62580-1174-11eb-9649-79f84b038f5b.png)
 
    - Setelah installasi terbuka, kalian bisa langsung membuka software *gitbash* pada menu windows kalian dan melakukan pengecekan versi dari git kalian dengan mengetikan syntax: *git --version*
+   ![Screenshot (18)](https://user-images.githubusercontent.com/72907098/96589098-490fca80-1299-11eb-97d9-48bf7dac41de.png)
+
 
   
    - jika sudah mendapat tampilan seperti gambar dibawah ini, itu mengartikan bahwa git kalian telah berhasil terinstall.
