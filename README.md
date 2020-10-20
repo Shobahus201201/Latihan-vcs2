@@ -34,8 +34,8 @@ KELAS : TI.20.A.1
 ### LANGKAH AWAL MENGGUNAKAN GITHUB
 * ### LOGIN AKUN GITHUB
   - Bukalah Github pada situs resminya yaitu *github.com*. Setelah itu pilih menu Sign Up yang terletak pada pojok kanan atas jika memang belum mempunyai akun.
-  
-![Screenshot (2)](https://user-images.githubusercontent.com/72791245/96339873-7570ee80-10c1-11eb-9dbf-10d5845d5f73.png)
+  ![Screenshot (2)](https://user-images.githubusercontent.com/72791245/96339873-7570ee80-10c1-11eb-9dbf-10d5845d5f73.png)
+
   - Kemudian, isilah data & email kalian dengan benar.
  ![Screenshot (16)](https://user-images.githubusercontent.com/72907098/96582888-c4b94980-1290-11eb-93c2-c642bfb4e3bc.png)
 
