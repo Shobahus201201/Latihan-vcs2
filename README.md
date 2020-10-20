@@ -37,7 +37,7 @@ KELAS : TI.20.A.1
   
 ![Screenshot (2)](https://user-images.githubusercontent.com/72791245/96339873-7570ee80-10c1-11eb-9dbf-10d5845d5f73.png)
   - Kemudian, isilah data & email kalian dengan benar.
-  ![Screenshot (1)](https://user-images.githubusercontent.com/72907098/96349969-df5caa00-1067-11eb-8105-b42cbd42efb1.png)
+ ![Screenshot (16)](https://user-images.githubusercontent.com/72907098/96582888-c4b94980-1290-11eb-93c2-c642bfb4e3bc.png)
 
   - Setelah itu lakukanlah verifikasi gambar, dan tekan pada bagian *'create account'*.
   
